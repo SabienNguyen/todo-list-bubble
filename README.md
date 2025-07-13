@@ -1,2 +1,2 @@
 # todo-list-bubble
-to-do list made with bubblegum
+to-do list made with bubbletea
